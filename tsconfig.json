@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "module": "ESNext", 
+    "target": "ESNext", 
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+  }
+}

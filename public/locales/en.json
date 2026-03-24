@@ -1,0 +1,912 @@
+{
+  "guest_user": "Guest User",
+  "login_btn": "Log In",
+  "signup_btn": "Sign Up",
+  "login": {
+    "title": "Log In",
+    "usernameLabel": "Username or Email Address*",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Log In",
+    "signupOptionLabel": "Don't have an account?",
+    "signUpOption": "Sign Up",
+    "error": {
+      "validUsername": "Please enter a valid username",
+      "validPassword": "Password must contain at least one uppercase letter, one lowercase letter, one special character, must not contain any spaces and be longer than 8 characters.",
+      "invalidData": "Invalid username or password"
+    }
+  },
+  "signup": {
+    "title": "Sign Up",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "termsAgreement": "I agree to the Privacy Policy and Terms & Conditions.",
+    "signupButton": "Sign Up",
+    "loginOptionLabel": "Already have an account?",
+    "loginOption": "Log In",
+    "error": {
+      "validUsername": "Please enter a valid username",
+      "validEmail": "Please enter a valid email address",
+      "validFirstname": "Please enter a valid first name",
+      "validLastname": "Please enter a valid last name",
+      "validPassword": "Password must contain at least one uppercase letter, one lowercase letter, one special character, must not contain any spaces and be longer than 8 characters.",
+      "invalidData": "Invalid username or password"
+    }
+  },
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "email": "Username",
+    "sendEmail": "Send Username",
+    "backTo": "Back to",
+    "login": "Log In",
+    "successfullyEmailSent": "Please check your email to reset your password",
+    "error": {
+      "validEmail": "Please enter a valid Username",
+      "invalidData": "Invalid username or password"
+    }
+  },
+  "resetPassword": {
+    "title": "Create New Password",
+    "newPasswordLabel": "New Password",
+    "confirmPasswordLabel": "Confirm New Password",
+    "resetPasswordButton": "Update Password",
+    "existingAccountMessage": "Already have an account?",
+    "loginOptionLabel": "Log in here",
+    "showPasswordLabel": "Show Password",
+    "successMessage": "Password changed successfully",
+    "error": {
+      "invalidPasswordFormat": "Password must contain at least one uppercase letter, one lowercase letter, one special character, must not contain any spaces and be longer than 8 characters.",
+      "invalidNewPasswordFormat": "Please enter your new password, Password must contain at least one uppercase letter, one lowercase letter, one special character, must not contain any spaces and be longer than 8 characters.",
+      "passwordMismatch": "Passwords do not match",
+      "fallbackMessage": "Something went wrong"
+    }
+  },
+  "mayLikeEvents": {
+    "title": "You Might Also Like",
+    "description": "Get inspired! Discover more exciting events, interesting destinations, and unique experiences in your area.",
+    "subDescription": "Here you'll find recommendations that perfectly match your interests!",
+    "buttonLabel": "View All Events",
+    "no_events": "No events found",
+    "fallback_message": "There are currently no events near you. Please check back later or expand your search area."
+  },
+  "allEvents": {
+    "title": "All Events",
+    "description": "Browse all upcoming and past events in one place."
+  },
+  "allNews": {
+    "title": "All News",
+    "description": "Browse all upcoming and past news in one place."
+  },
+  "navbar": {
+    "home_page": "Home",
+    "map": "Map",
+    "discover": "Discover",
+    "favorite": "Favorites",
+    "favoritecities": "Favorite Cities",
+    "settings": "Settings",
+    "logout": "Log Out",
+    "search": "Search",
+    "search_placeholder": "Enter search term",
+    "hey": "Hey",
+    "dashboard": "Dashboard",
+    "cities": "Cities"
+  },
+  "highlights": {
+    "title": "Highlights",
+    "fallback_message": "There are currently no events near you. Please check back later or expand your search area.",
+    "description": "Discover the special highlights of our district! From unique festivals and historic markets to spectacular open-air concerts — we present you the most exciting events and cultural treasures. Get inspired and experience unforgettable moments right on your doorstep."
+  },
+  "favorites": {
+    "title": "Favorites",
+    "description": "Here you will find your saved events. Browse through your favorites and keep track of the experiences you don’t want to miss."
+  },
+  "favoritescities": {
+    "title": "Favorite Cities",
+    "description": ""
+  },
+  "nearYou": {
+    "title": "Near You",
+    "description1": "Experience the cultural diversity of your district!",
+    "description2": "Whether concerts, theater performances, art exhibitions, or traditional festivals — here you’ll find current events and exciting experiences right in your area.",
+    "description3": "Get inspired, discover new highlights, and plan your next outings easily. Check back regularly to not miss out!",
+    "viewAll": "View All",
+    "map_view": "View on Map",
+    "fallback_message": "There are currently no events near you. Please check back later or expand your search area."
+  },
+  "todaysEvents": {
+    "title": "Today's Events",
+    "description1": "What’s on today? Here you can find all the events happening near you today.",
+    "description2": "Whether music, art, theater, or regional festivals — discover exciting events and enjoy your day just the way you like.",
+    "description3": "Check it out and don’t miss any highlights!",
+    "allEvents": "View All Events",
+    "fallback_message": "There are currently no events near you. Please check back later or expand your search area."
+  },
+  "todaysNews": {
+    "title": "News",
+    "description1": "What’s on today? Here you can find all the news happening near you today.",
+    "description2": "Whether music, art, theater, or regional festivals — discover exciting news and enjoy your day just the way you like.",
+    "description3": "Check it out and don’t miss any highlights!",
+    "allEvents": "View All News",
+    "fallback_message": "There are currently no news near you. Please check back later or expand your search area."
+  },
+  "discover": {
+    "title": "What’s There to Discover",
+    "description": "Here you’ll find everything important about your district: current announcements, services, exciting events, and cultural highlights. Discover leisure opportunities, culinary experiences, and digital projects — there’s something for everyone!"
+  },
+  "footer": {
+    "developer_community": "Developer Community",
+    "contact_us": "Contact Us",
+    "faq": "FAQ",
+    "imprint": "Imprint",
+    "terms_of_use": "Terms of Use",
+    "privacy_policy": "Privacy Policy",
+    "feedbackQuestion": "How do you like the app?",
+    "message": "Is something missing or have you noticed something? Let us know to continuously improve the app.",
+    "feedback": "Send Feedback",
+    "Imprint": {
+      "title": "Imprint",
+      "represented_by": "Represented by",
+      "contact": "Contact"
+    }
+  },
+  "Impressum": {
+    "title": "Legal Notice",
+    "section1_title": "Information pursuant to § 5 Digital Services Act (DDG)",
+    "section1_description": "The app 'Dein Kuseler Land' is a service of the district of Kusel, implemented within the framework of the LAND L(i)EBEN project. The district of Kusel is a corporation under public law and is represented by District Administrator Otto Rubly.",
+    "section1_provider": "Provider Name: District Administration Kusel",
+    "section1_address": "Address: Trierer Straße 49-51, 66869 Kusel, Germany",
+    "section1_contact": "Contact options:",
+    "section1_tel": "Tel.: +49 6381 424 0",
+    "section1_fax": "Fax: +49 6381 424 440",
+    "section1_email": "Email: buergerbuero@kv-kus.de",
+    "section1_website": "Website: https://www.landkreis-kusel.de",
+    "section1_vat": "VAT identification number pursuant to § 27a of the VAT Act: DE 218639538",
+    "section2_title": "Responsible party pursuant to § 18 (2) Interstate Media Treaty (MStV)",
+    "section2_content": "District Administration Kusel\nDistrict Administrator Otto Rubly\n66869 Kusel, Germany",
+    "section3_title": "Dispute resolution",
+    "section3_description": "We are legally obliged under Article 14 (1) of Regulation (EU) 524/2013 on online dispute resolution in consumer matters (ODR Regulation) to refer you to the European Online Dispute Resolution platform (OS platform) of the European Commission. You can access it at http://ec.europa.eu/odr.",
+    "section3_note": "The district of Kusel does not participate in a dispute resolution procedure before a consumer arbitration board and is not obliged to do so.",
+    "section4_title": "Data protection information",
+    "section4_content": "Our data protection information can be found at [Link].",
+    "section5_title": "Copyright notice",
+    "section5_description": "The texts, images, photos, videos or graphics on our website are generally subject to copyright protection. Any unauthorized use (especially reproduction, editing or distribution) of these copyrighted contents is therefore prohibited. If you intend to use these contents or parts thereof, please contact us in advance using the above contact details. If we do not hold the required copyright usage rights ourselves, we will endeavor to establish contact with the rights holder.",
+    "section6_title": "Liability",
+    "section6_description": "We are responsible for the content of our website in accordance with general laws. All content is created with due care and to the best of our knowledge and is intended for purely informational purposes only. Insofar as we refer to third-party websites via hyperlinks, we cannot guarantee the continuous topicality, accuracy and completeness of the linked content, as this content is outside our area of responsibility and we have no influence on its future design. If you consider content to be in violation of applicable law or inappropriate, please let us know.",
+    "section6_note": "The legal notices on this page as well as all questions and disputes in connection with the design of this website are subject to the law of the Federal Republic of Germany."
+  },
+  "terms-of-use": {
+    "title": "Terms of Use",
+    "section1_title": "General Terms and Scope of Application",
+    "section1_content": "These Terms of Use govern access to and use of this website and its associated services. By accessing or using our website, you agree to be bound by these Terms of Use, as well as by our Privacy Policy. These terms apply to all users of the website, whether in Germany or internationally. If you do not agree to these terms, you must refrain from using our website and services.",
+    "section2_title": "Availability and Access",
+    "section2_content": "We endeavor to ensure that our website is available without interruption and that transmissions are error-free. However, due to the nature of the internet, we cannot guarantee continuous and uninterrupted availability of the website. Access to the website may occasionally be suspended or restricted for maintenance, updates, or the introduction of new services. We reserve the right to modify, suspend, or discontinue the website, or any part of it, at any time without notice.",
+    "section3_title": "User Obligations",
+    "section3_content": "By using this website, you agree to use it solely for lawful purposes and in a manner that does not infringe the rights of or restrict or inhibit the use and enjoyment of the website by any third party. You must not upload, post, or distribute any content that is unlawful, harmful, defamatory, obscene, offensive, discriminatory, or otherwise objectionable. You are prohibited from transmitting any unsolicited advertising, promotional materials, or other forms of solicitation (spam). You must not knowingly introduce viruses, malware, or other harmful material to the website.",
+    "section4_title": "Limitation of Liability",
+    "section4_content": "We are liable without limitation for intent and gross negligence, as well as for damages resulting from injury to life, body, or health. In the case of slightly negligent breaches of duty, we are only liable for foreseeable damages typical for the contract, and only where an essential contractual obligation has been breached. We accept no responsibility for the accuracy, completeness, or timeliness of information provided by third-party websites linked from our website. We are not liable for any direct, indirect, incidental, or consequential damages arising out of your access to or use of our website.",
+    "section5_title": "Intellectual Property",
+    "section5_content": "All content on this website, including but not limited to text, images, graphics, logos, icons, and software, is the property of our company or our licensors and is protected by applicable copyright, trademark, and intellectual property laws. Unauthorized reproduction, distribution, modification, public display, or other exploitation of the website content is prohibited without our express prior written consent.",
+    "section6_title": "Governing Law and Jurisdiction",
+    "section6_content": "These Terms of Use are governed by the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods. If you are a business user, the exclusive jurisdiction for all disputes arising from or in connection with these Terms of Use is the registered office of our company. Mandatory statutory provisions, especially those concerning consumer protection, remain unaffected."
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "intro_title": "Privacy Notice",
+    "intro_content": "We take the protection of your personal data very seriously. This privacy policy explains how we collect, use, disclose, and protect your data when you use our website and services. By using our website, you consent to the processing of your personal data as described in this policy.",
+    "section1_title": "Who is responsible for data processing?",
+    "section1_content": "The responsible entity (controller) for the processing of personal data on this website is:\nLand( )leben – digital.gemeinsam.vorOrt\nKreisverwaltung Kusel\nTrierer Str. 49-51\n66869 Kusel\nEmail: landliebe@kv-kus.de",
+    "section2_title": "What data do we collect?",
+    "section2_content": "We collect personal data that you provide to us voluntarily, such as your name, contact details, and communications, as well as data automatically collected through your use of the website, such as IP address, browser type, and access times.",
+    "section3_title": "For what purposes do we process your data?",
+    "section3_content": "We process your data to provide and improve our services, respond to inquiries, fulfill legal obligations, and ensure the security of our website. Where required, we process your data based on your consent, which you may withdraw at any time.",
+    "section4_title": "How long do we store your data?",
+    "section4_content": "We store your personal data only as long as necessary to fulfill the purposes for which it was collected or as required by law. Once the data is no longer needed, it will be deleted or anonymized.",
+    "section5_title": "What rights do you have?",
+    "section5_content": "You have the right to access, rectify, or delete your personal data, restrict its processing, object to processing, and the right to data portability. You also have the right to lodge a complaint with a supervisory authority.",
+    "section6_title": "How can you contact us?",
+    "section6_content": "If you have questions about this privacy policy or the processing of your personal data, please contact us at landliebe@kv-kus.de."
+  },
+  "heroSection": {
+    "hey": "Hey",
+    "message": "It’s going to be sunny today!",
+    "appStoreMessage": "Get the app!"
+  },
+  "settings": {
+    "title": "Settings",
+    "tab": {
+      "user_details": "User Details",
+      "delete_account": "Delete Account",
+      "favorites": "Favorites",
+      "usernameReq": "Username and Firstname are required",
+      "phoneNum": "Phone number must be numeric",
+      "phoneLen": "Phone number must not exceed 15 digits",
+      "emailValid": "Email is not valid",
+      "websiteValid": "Website is not valid"
+    },
+    "user_details": {
+      "username": "Username",
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "phone": "Phone Number",
+      "description": "Description",
+      "website": "Website",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "success_message": "User updated successfully",
+      "failure_message": "User could not be updated, please try again later",
+      "viewonboarding": "Edit Onboarding"
+    },
+    "delete_account": {
+      "promptReason": "If you want to delete an account, you will be asked to provide a reason.",
+      "warning": "Deleting your account will remove all your information from our database. This cannot be undone.",
+      "placeholder": "Please provide a reason here...",
+      "button": "Delete",
+      "error_message": "Account could not be deleted. Please try again later or contact support if the problem persists."
+    }
+  },
+  "feedback": {
+    "title": "Send Feedback",
+    "referenceLabel": "Select Reference",
+    "emailLabel": "Email Address",
+    "feedbackLabel": "Your Feedback",
+    "submitButton": "Submit",
+    "SubmittingLabel": "Submitting...",
+    "successMessage": "Thank you for your feedback!",
+    "error_message": "Oops! Your feedback could not be sent due to a technical issue. Please try again shortly.",
+    "privacyPolicyCheckbox": "I have read and understood the privacy policy.",
+    "error": {
+      "requiredName": "Please enter your name",
+      "invalidEmail": "Please enter a valid email address",
+      "shortFeedback": "Feedback must be at least 10 characters long",
+      "submitFailed": "Something went wrong. Please try again."
+    },
+    "references": {
+      "infra": "Infrastructure & Public Space",
+      "traffic": "Traffic & Mobility",
+      "cleanliness": "Cleanliness & Environment",
+      "digital": "Digital Services & App Function",
+      "damages": "Disruptions & Damages",
+      "service": "Citizen Services & Administration",
+      "general": "General Feedback"
+    }
+  },
+  "onboarding": {
+    "user_details.failure_message": "User could not be updated, please try again later",
+    "welcome_step": {
+      "title": "Welcome!",
+      "message": "Let's get to know you and find the best offers.",
+      "get_started": "Let’s get started",
+      "skip": "Maybe later"
+    },
+    "name_step": {
+      "title": "What should I call you?",
+      "name_label": "Your Name",
+      "skip": "Skip",
+      "next": "Next",
+      "prev": "Back"
+    },
+    "identity_step": {
+      "title": "I ...",
+      "live_here": "live here",
+      "spend_free_time": "spend my free time here",
+      "next": "Next",
+      "prev": "Back",
+      "skip": "Skip"
+    },
+    "resident_step": {
+      "title": "I live in the district ...",
+      "residenceTitle": "Your Residence",
+      "alone": "Alone",
+      "couple": "As a couple",
+      "family": "With my family",
+      "married": "As a couple",
+      "with_family": "With my family",
+      "withDog": "With dog",
+      "accessible": "Accessible",
+      "lowBarrier": "Low Barrier",
+      "next": "Next",
+      "prev": "Back",
+      "skip": "Skip"
+    },
+    "interest_step": {
+      "title": "Almost done! What are you interested in within the district?",
+      "complete": "Finish",
+      "prev": "Back",
+      "skip": "Skip"
+    },
+    "loading_step": {
+      "title": "Thank you",
+      "sub_title": "I'm now preparing the app for you. This will only take a moment."
+    },
+    "success_step": {
+      "title": "All Set",
+      "sub_title": "I’ve prepared everything for you. Have fun!",
+      "submit": "Continue to Homepage"
+    }
+  },
+  "filter_event": {
+    "title": "Filter",
+    "reset": "Reset Filters",
+    "period": "Period",
+    "next30Days": "Next 30 Days",
+    "targetGroup": "Target Group",
+    "dateRange": "Date Range",
+    "alone": "Alone",
+    "location": "Location",
+    "radius": "Radius",
+    "sortBy": "Sort By",
+    "recent": "Recency",
+    "distance": "Distance",
+    "options": "Options",
+    "dogsAllowed": "Dogs Allowed",
+    "accessible": "Accessible",
+    "publicTransport": "Reachable by Public Transport",
+    "free": "Free",
+    "onlineBooking": "Bookable Online",
+    "openAir": "Open Air",
+    "cardPayment": "Card Payment Available",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "couple": "As a couple",
+    "children": "With children",
+    "groups": "Groups",
+    "seniors": "Seniors",
+    "optionsValues": {
+      "dog_friendly": "Dogs Allowed",
+      "accessible": "Accessible",
+      "public_transport": "Reachable by Public Transport",
+      "free": "Free",
+      "online": "Bookable Online",
+      "openAir": "Open Air",
+      "card_payment": "Card Payment Available"
+    },
+    "date_filter": {
+      "today": "Today",
+      "weekend": "Weekend",
+      "7": "Next 7 Days",
+      "30": "Next 30 Days",
+      "custom": "Custom Date Range"
+    }
+  },
+  "searches": {
+    "title": "How can I help you?",
+    "subtitle": "Just ask me something.",
+    "buttons": {
+      "nearby": "What’s nearby",
+      "recommendations": "Recommendations"
+    },
+    "searchPlaceholder": "Enter search term",
+    "recentSearches": "Recent Searches",
+    "noSearchItem": "No results yet. Try searching for something."
+  },
+  "discoverylist": {
+    "new": "New",
+    "firstcard": {
+      "Name": "Places and Communities",
+      "Content": "Interesting facts and news about your place."
+    },
+    "secondcard": {
+      "Name": "Digifit Parcours",
+      "Content": "Interactive stations for digital skills and fun."
+    },
+    "thirdcard": {
+      "Name": "Treasure Pass",
+      "Content": "Discover culture, collect stamps, and experience the district."
+    },
+    "fourthcard": {
+      "Name": "Recommendations",
+      "Content": "The best tips for trips, events, and culinary highlights."
+    },
+    "fifthcard": {
+      "Name": "Events",
+      "Content": "Current events, from concerts to festivals, near you."
+    },
+    "sixthcard": {
+      "Name": "Gastronomy",
+      "Content": "Diverse culinary highlights and regional specialties."
+    },
+    "seventhcard": {
+      "Name": "Culture",
+      "Content": "Concerts, theater, and museums for a rich cultural experience."
+    },
+    "eighthcard": {
+      "Name": "Youth",
+      "Content": "Events and projects for young people in the district."
+    },
+    "ninthcard": {
+      "Name": "For Seniors",
+      "Content": "Offers and information for an active senior life."
+    },
+    "tenthcard": {
+      "Name": "Official Announcements",
+      "Content": "Important information and announcements."
+    },
+    "eleventhcard": {
+      "Name": "Citizen Services",
+      "Content": "All important services and applications."
+    }
+  },
+  "burgerservice": {
+    "firstcard": {
+      "Name": "Virtual Town Hall"
+    },
+    "secondcard": {
+      "Name": "My Place"
+    },
+    "thirdcard": {
+      "Name": "Tourism and Leisure"
+    },
+    "fourthcard": {
+      "Name": "Mobility"
+    },
+    "fifthcard": {
+      "Name": "PARTICIPATE"
+    }
+  },
+  "virtualtownhall": {
+    "name": "Virtual Town Hall",
+    "title": "District Administration",
+    "details": {
+      "place": "Open",
+      "duration": "Closes at 6:00 PM",
+      "visit_website": "Visit website"
+    },
+    "mapcard": {
+      "title": "Our Communities"
+    },
+    "Iconcard": {
+      "first": {
+        "title": "Online Services",
+        "description": "Citizen services online"
+      },
+      "second": {
+        "title": "Online Appointment Scheduling",
+        "description": "District Administration"
+      },
+      "third": {
+        "title": "Waste App",
+        "description": "Never miss a collection date again."
+      },
+      "fourth": {
+        "title": "Palatinate Uplands",
+        "description": ""
+      }
+    },
+    "newscard": {
+      "title": "News",
+      "button": "View All Announcements",
+      "first": {
+        "description": "Here is a news message"
+      },
+      "second": {
+        "description": "Here is a news message, which can also be two lines long"
+      },
+      "third": {
+        "description": "Here is a news message"
+      },
+      "fourth": {
+        "description": "Here is a news message"
+      }
+    },
+    "eventcard": {
+      "title": "Events",
+      "button": "Show All Events",
+      "first": {
+        "description": "Medieval Market"
+      },
+      "second": {
+        "description": "European Farmers' Market"
+      },
+      "third": {
+        "description": "Open Underground Wine Tasting"
+      },
+      "fourth": {
+        "description": "Guided E-Bike Tour"
+      },
+      "fifth": {
+        "description": "Farmers' Market"
+      }
+    }
+  },
+  "meinort": {
+    "description": "Welcome to the overview page for your places in the Kusel region – your guide to the locations of the area.",
+    "readmore": "Read more"
+  },
+  "kuselaltenglan": {
+    "title": "Kusel-Altenglan",
+    "description": "The Kusel-Altenglan municipality is a territorial authority in the Kusel district in Rhineland-Palatinate. It was formed on January 1, 2018, from the voluntary merger of the Altenglan and Kusel municipalities. It includes the town of Kusel and 33 other local communities, with the administrative seat located in Kusel.",
+    "details": {
+      "place": "Open",
+      "duration": "Closes at 4:00 PM"
+    },
+    "municipal": {
+      "title": "Places of the Municipality",
+      "button": "View All Places"
+    },
+    "mapcard": {
+      "title": "Our Communities"
+    },
+    "Iconcard": {
+      "first": {
+        "title": "Online Services",
+        "description": "Citizen services online"
+      },
+      "second": {
+        "title": "Online Appointment Scheduling",
+        "description": "District Administration"
+      },
+      "third": {
+        "title": "Waste App",
+        "description": "Never miss a collection date again."
+      },
+      "fourth": {
+        "title": "Palatinate Uplands",
+        "description": ""
+      }
+    },
+    "newscard": {
+      "title": "News",
+      "button": "View All Announcements",
+      "first": {
+        "description": "Here is a news message"
+      },
+      "second": {
+        "description": "Here is a news message, which can also be two lines long"
+      },
+      "third": {
+        "description": "Here is a news message"
+      },
+      "fourth": {
+        "description": "Here is a news message"
+      }
+    },
+    "eventcard": {
+      "title": "Events",
+      "button": "Show All Events",
+      "first": {
+        "description": "Medieval Market"
+      },
+      "second": {
+        "description": "European Farmers' Market"
+      },
+      "third": {
+        "description": "Open Underground Wine Tasting"
+      },
+      "fourth": {
+        "description": "Guided E-Bike Tour"
+      },
+      "fifth": {
+        "description": "Farmers' Market"
+      }
+    }
+  },
+  "tourism": {
+    "title": "Tourism and Leisure",
+    "Iconcard": {
+      "first": {
+        "title": "Hiking Trails App",
+        "description": "Discover Kusel on foot"
+      }
+    },
+    "mapcard": {
+      "title": "Our Recommendations"
+    },
+    "nearyour": {
+      "title": "Near You",
+      "button": "View on Map"
+    }
+  },
+  "mobility": {
+    "title": "Mobility",
+    "description": "The Kusel district is responsible for organizing public transport (ÖPNV) according to the Rhineland-Palatinate Public Transport Act. Public transport also includes school transportation and trips to daycare centers at their respective locations in the Kusel district.",
+    "dropdown": {
+      "title": "Read More"
+    },
+    "Iconcard": {
+      "title": "Our Offers",
+      "first": {
+        "title": "Call Taxi",
+        "description": ""
+      },
+      "second": {
+        "title": "Carpool Search",
+        "description": ""
+      },
+      "third": {
+        "title": "Community Bus",
+        "description": ""
+      },
+      "fourth": {
+        "title": "Youth Taxi",
+        "description": "Get home safely!"
+      },
+      "fifth": {
+        "title": "School Transportation",
+        "description": ""
+      },
+      "sixth": {
+        "title": "The Germany Ticket",
+        "description": "Travel with the train"
+      }
+    },
+    "contact1": {
+      "title": "Timetable Information and Call Taxi Bookings Around the Clock"
+    },
+    "contact2": {
+      "title": "Mobility Center",
+      "description": "For further inquiries about the bus and call taxi services, please contact the mobility center of the district."
+    },
+    "infocard": {
+      "title": "Your Contacts",
+      "first": {
+        "title": "Wolfgang Borm"
+      },
+      "second": {
+        "title": "Mathias Börtzler"
+      },
+      "third": {
+        "title": "Manuela Weber"
+      }
+    }
+  },
+  "mitchmachen": {
+    "title": "SHAPE THE FUTURE OF THE KUSEL DISTRICT",
+    "subheading": "We want to further develop the Kusel district together.",
+    "description": "Your ideas and opinions are the key to making our region future-proof. Get involved and actively shape the future!",
+    "button": "Sign Up Here",
+    "Iconcard": {
+      "title": "PARTICIPATE",
+      "first": {
+        "title": "Join Now!",
+        "description": "Shape the future of the Kusel district"
+      },
+      "second": {
+        "title": "Active Projects",
+        "description": ""
+      },
+      "third": {
+        "title": "To Registration",
+        "description": ""
+      }
+    },
+    "description2": {
+      "title": "JOIN IN AND SHAPE THE FUTURE OF THE KUSEL DISTRICT!",
+      "description": "On this platform, you can contribute ideas, support projects, and vote on important topics. Want to know how it works? Here you’ll find everything you need to know about registration and participation — explained simply!"
+    },
+    "infocard": {
+      "title": "Your Contacts",
+      "first": {
+        "title": "Nadine Kropp-Meyer"
+      }
+    }
+  },
+  "weekdays": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "sidebar": {
+    "my_entries": "My Entries",
+    "upload_listing": "Upload Listing",
+    "all_listings": "All Listing"
+  },
+  "dashboard": {
+    "listingsTable": {
+      "myEntries": "My Entries",
+      "allListings": "All Listings",
+      "errorLoading": "Error loading listings",
+      "noListings": "No listings found",
+      "manageStatus": "Manage Status",
+      "na": "N/A",
+      "columns": {
+        "title": "LISTINGS",
+        "category": "CATEGORY",
+        "date": "DATE OF CREATION",
+        "views": "NUMBER OF VIEWS",
+        "status": "STATUS",
+        "currentStatus": "CURRENT STATUS",
+        "actions": "ACTION"
+      },
+      "tabs": {
+        "all": "All",
+        "active": "Active",
+        "pending": "Pending",
+        "inactive": "Inactive"
+      },
+      "status": {
+        "active": "Active",
+        "pending": "Pending",
+        "inactive": "Inactive",
+        "unknown": "Unknown"
+      },
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page",
+      "confirmDialog": {
+        "title": "Are you sure?",
+        "message": "Do you really want to delete this listing? This action cannot be reverted.",
+        "cancel": "Cancel",
+        "delete": "Delete"
+      }
+    }
+  },
+  "upload": {
+    "select": "Select",
+    "title": "Title *",
+    "category": "Category *",
+    "subcategory": "Subcategory",
+    "districts": "Districts *",
+    "municipalities": "Municipalities",
+    "cities": "Cities",
+    "eventStartDate": "Event Start Date *",
+    "eventEndDate": "Event End Date",
+    "expiryDate": "Expiry Date *",
+    "disableDates": "Disable expiry date",
+    "streetAddress": "Street Address",
+    "originalPrice": "Original Price",
+    "discountedPrice": "Discounted Price",
+    "telephone": "Telephone",
+    "email": "Email",
+    "website": "Website",
+    "description": "Description *",
+    "createListing": "Create Listing",
+    "updateListing": "Update Listing",
+    "processing": "Processing...",
+    "uploadImages": "Upload Images (max {{max}})",
+    "addMoreImages": "Add More Images ({{count}}/{{max}})",
+    "uploadPdf": "Upload PDF",
+    "replacePdf": "Replace PDF",
+    "selectedImages": "{count} images selected",
+    "removeImage": "Remove image",
+    "removePdf": "Remove PDF",
+    "uploadLogo": "Upload Logo/PDF",
+    "addFileHere": "Add your file here",
+    "maxFileSizeAllert": "Maximum file size: 20MB",
+    "imageNumberAlertListings": "Maximum 8 images allowed",
+    "dragAndDropImageOrPDF": "Drag & drop your image or PDF here",
+    "upload": "Upload",
+    "removeFile": "Remove File",
+    "imagePdfWarning": "Note: You can upload either images OR a PDF, not both",
+    "noExpiryMessage": "There will not be any expiry time or date to this news",
+    "error": {
+      "titleRequired": "Title is required",
+      "titleLength": "Title must be less than 255 characters",
+      "categoryRequired": "Category is required",
+      "descriptionRequired": "Description is required",
+      "descriptionLength": "Description must be less than 65535 characters",
+      "locationRequired": "At least one location must be selected",
+      "startDateRequired": "Start date is required",
+      "expiryDateRequired": "Expiry date is required",
+      "pdfSizeExceeded": "PDF must be less than {{size}} MB.",
+      "invalidImageType": "Only image files are allowed",
+      "imageSizeExceeded": "Image size must be less than {size}MB",
+      "invalidPdfType": "Only PDF files are allowed",
+      "createFailed": "Failed to create listing. Please try again.",
+      "updateFailed": "Failed to update listing. Please try again.",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Please enter a valid phone number",
+      "invalidWebsite": "Please enter a valid website URL",
+      "emailRequired": "Email is required",
+      "phoneRequired": "Phone number is required",
+      "endDateBeforeStart": "End date cannot be before start date",
+      "pdfTooLarge": "PDF file is too large (max {size}MB)",
+      "pdfDeleteFailed": "Failed to delete PDF",
+      "imageUploadFailed": "Image upload failed",
+      "pdfUploadFailed": "PDF upload failed",
+      "expiryDatePast": "Expiry date cannot be in the past",
+      "districtRequired": "District is required",
+      "municipalityRequired": "Municipality is required",
+      "cityRequired": "City is required"
+    },
+    "success": {
+      "created": "Listing created successfully!",
+      "updated": "Listing updated successfully!",
+      "pdfDeleted": "PDF successfully deleted",
+      "imageUploaded": "Image successfully uploaded",
+      "pdfUploaded": "PDF successfully uploaded"
+    },
+    "pdf": {
+      "loading": "Loading...",
+      "error": "Failed to load PDF"
+    }
+  },
+  "citytable": {
+    "district": "District",
+    "selectDistrict": "Select District",
+    "municipality": "Municipality",
+    "selectMunicipality": "Select Municipality",
+    "city": "City",
+    "selectCity": "Select City",
+    "showDetails": "Show Details",
+    "hideDetails": "Hide Details",
+    "cityDetails": "City Details",
+    "name": "Name",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "subtitle": "Subtitle",
+    "noSubtitle": "No subtitle provided",
+    "description": "Description",
+    "noDescription": "No description provided",
+    "cancel": "Cancel",
+    "saveChanges": "Save Changes",
+    "edit": "Edit",
+    "view": "View",
+    "upload": "Upload",
+    "save": "Save",
+    "close": "Close",
+    "successMessage": "City updated successfully!",
+    "errorMessage": "Failed to update city",
+    "mayorDetails": "Mayor Details",
+    "mayorName": "Mayor Name",
+    "mayorDescription": "Mayor Description",
+    "cityAdmin": "City Admin",
+    "cityAdminSectionTitle": "City Administrators Administration",
+    "cityName": "City Name",
+    "createCityAdmin": "+ Create City Admin",
+    "addNewAdmin": "Add a new admin",
+    "selectUser": "Select User",
+    "username": "Username",
+    "email": "Email",
+    "saveAdmin": "Save Admin",
+    "administratorDetails": "Administrator Details",
+    "noAdminsAssigned": "No administrators assigned to this city.",
+    "delete": "Delete",
+    "inviteCityAdmin": "Invite City Admin",
+    "adminEmail": "Admin Email",
+    "sendInvite": "Send Invite",
+    "adminList": "Admin list",
+    "role": "Role",
+    "createdAt": "Created At",
+    "registered": "Registered",
+    "noInvitedAdmins": "No invited admins found.",
+    "invitationSuccess": "Invitation sent successfully",
+    "invitationFailed": "Failed to send invite",
+    "cityAdminRole": "City Admin",
+    "otherRole": "Other"
+  },
+  "maps": {
+    "noData": "No Data Available",
+    "searchPlaceholder": "Enter search term"
+  },
+  "eventDetail": {
+    "nextDate": "Next Dates",
+    "visitWeb": "Visit Website",
+    "public_transport": "Public Transport Options",
+    "checkOut": "Check here for the best way to get there",
+    "barrierFree": "Accessible",
+    "dogsAllowed": "Dogs Allowed",
+    "freeEntry": "Free Entry",
+    "showRoute": "Show Route"
+  },
+  "Datenschutz": {
+    "title": "Privacy Policy",
+    "section1_title": "1. Data Protection at a Glance",
+    "section1_content": "General Information\n\nThe following notes provide a simple overview of what happens to your personal data when you visit our website. Personal data is any data by which you can be personally identified. Detailed information on data protection can be found in the privacy policy listed below this text.\n\nData Collection on Our Website\n\nWho is responsible for data collection on this website?\n\nData processing on this website is carried out by the website operator. You can find their contact details in the imprint of this website.\n\nHow do we collect your data?\n\nYour data is collected firstly by you providing it to us. This may be, for example, data you enter in a contact form.\n\nOther data is collected automatically by our IT systems when you visit the website. These are mainly technical data (e.g. internet browser, operating system, or time of page access). The collection of this data happens automatically as soon as you enter our website.\n\nWhat do we use your data for?\n\nPart of the data is collected to ensure the error-free provision of the website. Other data may be used to analyze your user behavior.\n\nWhat rights do you have regarding your data?\n\nYou have the right at any time to receive free information about the origin, recipient, and purpose of your stored personal data. You also have the right to request the correction, blocking, or deletion of this data. For this and other questions about data protection, you can contact us at any time at the address given in the imprint. You also have the right to lodge a complaint with the competent supervisory authority.\n\nYou also have the right, under certain circumstances, to request the restriction of the processing of your personal data. Details can be found in the privacy policy under 'Right to Restriction of Processing'.",
+    "section2_title": "2. General Information and Mandatory Disclosures",
+    "section2_content": "Privacy Policy\n\nThe operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this privacy policy.\n\nWhen you use this website, various personal data are collected. Personal data is data by which you can be personally identified. This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this happens.\n\nWe point out that data transmission over the Internet (e.g. when communicating by e-mail) can have security gaps. Complete protection of data from access by third parties is not possible.\n\nNote on the Responsible Party\n\nThe responsible party for data processing on this website is:\n\nDistrict Administration Kusel\nTrierer Straße 49-51\n66869 Kusel\nTel. 06381/ 424 0\nFax: 06381/ 424 440\nbuergerbuero@kv-kus.de\n\nOur data protection officer is available to answer questions about the processing of your personal data at the following contact details:\n\nOfficial Data Protection Officer\nTrierer Straße 49-51\n66869 Kusel\nTel. 06381/ 424 0\nFax: 06381/ 424 50220\ndatenschutzbeauftragter@kv-kus.de\n\nExternal Hosting\n\nThis website is hosted by an external service provider:\nHosting provider/Heidi, address, contact\nThe personal data collected on this website is stored on the servers of “Heidi or est. Hosting provider”. This may include IP addresses, contact requests, meta and communication data, contract data, contact details, names, website accesses, and other data generated via a website.\n\nRevocation of Your Consent to Data Processing\n\nMany data processing operations are only possible with your express consent. You can revoke consent already given at any time. An informal notification by e-mail to us is sufficient. The legality of the data processing carried out until the revocation remains unaffected by the revocation.\n\nRight to Object to Data Collection in Special Cases and to Direct Advertising (Art. 21 GDPR)\n\nIf data processing is based on Art. 6 para. 1 lit. e or f GDPR, you have the right at any time to object to the processing of your personal data for reasons arising from your particular situation; this also applies to profiling based on these provisions. The respective legal basis on which processing is based can be found in this privacy policy. If you object, we will no longer process your affected personal data unless we can demonstrate compelling legitimate grounds for the processing that outweigh your interests, rights, and freedoms or the processing serves the establishment, exercise, or defense of legal claims (objection under Art. 21 para. 1 GDPR).\n\nIf your personal data is processed for direct advertising, you have the right to object at any time to the processing of personal data concerning you for the purpose of such advertising; this also applies to profiling insofar as it is associated with such direct advertising. If you object, your personal data will no longer be used for direct advertising purposes (objection under Art. 21 para. 2 GDPR).\n\nRight to Lodge a Complaint with the Competent Supervisory Authority\n\nIn the event of violations of the GDPR, data subjects have the right to lodge a complaint with a supervisory authority, in particular in the Member State of their habitual residence, place of work, or place of the alleged infringement. The right to lodge a complaint exists without prejudice to other administrative or judicial remedies.\n\nRight to Data Portability\n\nYou have the right to have data that we process automatically based on your consent or in fulfillment of a contract handed over to you or to a third party in a common, machine-readable format. If you request the direct transfer of the data to another controller, this will only be done as far as it is technically feasible.\n\nSSL or TLS Encryption\n\nThis site uses SSL or TLS encryption for security reasons and to protect the transmission of confidential content, such as inquiries you send to us as the site operator. You can recognize an encrypted connection by the fact that the address line of the browser changes from “http://” to “https://” and by the lock symbol in your browser line.\n\nWhen SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.\n\nInformation, Blocking, Deletion, and Correction.",
+    "section2.1_content": "Within the framework of the applicable legal provisions, you have the right at any time to free information about your stored personal data, its origin and recipient, and the purpose of data processing and, if necessary, a right to correction, blocking, or deletion of this data. For this and other questions on the subject of personal data, you can contact us at any time at the address given in the imprint.\n\nRight to Restriction of Processing\n\nYou have the right to request the restriction of the processing of your personal data. You can contact us at any time at the address given in the imprint. The right to restriction of processing exists in the following cases:\n\nIf you dispute the accuracy of your personal data stored with us, we usually need time to check this. For the duration of the review, you have the right to request the restriction of the processing of your personal data. If the processing of your personal data was/is unlawful, you can request the restriction of data processing instead of deletion. If we no longer need your personal data, but you need it to exercise, defend, or assert legal claims, you have the right to request the restriction of the processing of your personal data instead of deletion. If you have lodged an objection under Art. 21 para. 1 GDPR, a balance must be struck between your and our interests. As long as it is not yet clear whose interests prevail, you have the right to request the restriction of the processing of your personal data.\n\nIf you have restricted the processing of your personal data, these data – apart from their storage – may only be processed with your consent or for the establishment, exercise, or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the European Union or a Member State.\n\nObjection to Advertising Emails\n\nThe use of contact data published within the scope of the imprint obligation for sending unsolicited advertising and information materials is hereby objected to. The operators of the pages expressly reserve the right to take legal action in the event of unsolicited sending of advertising information, such as spam emails.",
+    "section3_title": "3. Data Collection on Our Website",
+    "section3_content": "Cookies\n\nOur websites sometimes use so-called cookies. Cookies do not harm your computer and do not contain viruses. Cookies serve to make our offer more user-friendly, effective, and secure. Cookies are small text files that are stored on your computer and saved by your browser.\n\nMost of the cookies we use are so-called “session cookies”. They are automatically deleted after your visit. Other cookies remain stored on your device until you delete them. These cookies enable us to recognize your browser on your next visit.\n\nYou can set your browser so that you are informed about the setting of cookies and only allow cookies in individual cases, exclude the acceptance of cookies for certain cases or in general, and activate the automatic deletion of cookies when closing the browser. Disabling cookies may limit the functionality of this website.\n\nCookies that are required to carry out the electronic communication process or to provide certain functions you desire are stored on the basis of Art. 6 para. 1 lit. f GDPR. The website operator has a legitimate interest in storing cookies for the technically error-free and optimized provision of its services. ...",
+    "section4_title": "4. Your Rights",
+    "section4_content": "Information, Blocking, Deletion, and Correction\n\nWithin the framework of the applicable legal provisions, you have the right at any time to free information about your stored personal data, its origin and recipient, and the purpose of data processing and, if necessary, a right to correction, blocking, or deletion of this data. For this and other questions on the subject of personal data, you can contact us at any time at the address given in the imprint.\n\nRight to Restriction of Processing\n\nYou have the right to request the restriction of the processing of your personal data. You can contact us at any time at the address given in the imprint. ...\n\nObjection to Advertising Emails\n\nThe use of contact data published within the scope of the imprint obligation for sending unsolicited advertising and information materials is hereby objected to. ...",
+    "section5_title": "5. Plugins and Tools",
+    "section5_content": "a. Google Web Fonts\n\nThis site uses so-called web fonts provided by Google for the uniform display of fonts. The Google Fonts are installed locally. No connection to Google servers takes place. Further information on Google Web Fonts can be found at https://developers.google.com/fonts/faq and in Google's privacy policy: https://policies.google.com/privacy?hl=en.\n\nb. OpenStreetMaps\n\nWe use the open-source map service “OpenStreetMaps” (also called “OSM”) of the OpenStreetMap Foundation, 132 Maney Hill Road, Sutton Coldfield, West Midlands, B72 1JU, United Kingdom, for the display of geo-data. OSM is used to provide an interactive map on our website that shows you how to find and reach us. This service enables us to present our website attractively by loading map material from an external server. The following data is transmitted to the servers of OSM when displayed: the specific page of our website you visited and the IP address of your device. The legal basis for processing your data in relation to the “OSM” service is Art. 6 para. 1 sentence 1 letter f) GDPR (legitimate interest in data processing). The legitimate interest arises from our need for an attractive presentation of our online offer and the easy findability of the places indicated on our homepage.\n\nMore information on the handling of user data can be found in the privacy policy of OSM: https://wiki.osmfoundation.org/wiki/Privacy_Policy\n\nc. Changes to This Privacy Policy\n\nWe reserve the right to change this privacy policy. The current version of the privacy policy is always available at XXXXXX."
+  },
+  "roles": {
+    "superAdmin": "Super Admin",
+    "citizen": "Citizen",
+    "cityAdmin": "City Admin",
+    "other": "Other"
+  }
+}

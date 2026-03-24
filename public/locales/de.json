@@ -1,0 +1,921 @@
+{
+    "guest_user": "Gastbenutzer",
+    "login_btn": "Anmelden",
+    "signup_btn": "Registrieren",
+    "login": {
+        "title": "Anmelden",
+        "usernameLabel": "Benutzername oder E-Mail-Adresse*",
+        "passwordLabel": "Passwort",
+        "forgotPassword": "Passwort vergessen?",
+        "loginButton": "Anmelden",
+        "signupOptionLabel": "Noch kein Konto?",
+        "signUpOption": "Registrieren",
+        "error": {
+            "validUsername": "Geben Sie einen gültigen Benutzernamen ein",
+            "validPassword": "Das Passwort muss mindestens einen Großbuchstaben, einen Kleinbuchstaben, ein Sonderzeichen enthalten, darf keine Leerzeichen enthalten und länger als 8 Zeichen sein.",
+            "invalidData": "Ungültiger Benutzername oder Passwort"
+        }
+    },
+    "signup": {
+        "title": "Registrieren",
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "username": "Benutzername",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "termsAgreement": "Hiermit akzeptiere ich die Datenschutzbestimmungen und allgemeinen Geschäftsbedingungen.",
+        "signupButton": "Registrieren",
+        "loginOptionLabel": "Haben Sie bereits ein Konto?",
+        "loginOption": "Anmelden",
+        "error": {
+            "validUsername": "Geben Sie einen gültigen Benutzernamen ein",
+            "validEmail": "Geben Sie eine gültige E-Mail-Adresse ein",
+            "validFirstname": "Geben Sie einen gültigen Vornamen ein",
+            "validLastname": "Geben Sie einen gültigen Nachnamen ein",
+            "validPassword": "Das Passwort muss mindestens einen Großbuchstaben, einen Kleinbuchstaben, ein Sonderzeichen enthalten, darf keine Leerzeichen enthalten und länger als 8 Zeichen sein.",
+            "invalidData": "Ungültiger Benutzername oder Passwort"
+        }
+    },
+    "forgotPassword": {
+        "title": "Passwort vergessen",
+        "email": "Benutzername",
+        "sendEmail": "Benutzername senden",
+        "backTo": "Zurück zu",
+        "login": "Anmelden",
+        "successfullyEmailSent": "Bitte überprüfen Sie Ihre E-Mails, um Ihr Passwort zurückzusetzen",
+        "error": {
+            "validEmail": "Bitte geben Sie einen gültigen Benutzernamen ein",
+            "invalidData": "Ungültiger Benutzername oder Passwort"
+        }
+    },
+    "resetPassword": {
+        "title": "Neues Passwort erstellen",
+        "newPasswordLabel": "Neues Password",
+        "confirmPasswordLabel": "Neues Passwort bestätigen",
+        "resetPasswordButton": "Passwort aktualisieren",
+        "existingAccountMessage": "Du hast bereits ein Konto?",
+        "loginOptionLabel": "Bitte hier anmelden",
+        "showPasswordLabel": "Passwort Beiträge",
+        "successMessage": "Passwort erfolgreich geändert",
+        "error": {
+            "invalidPasswordFormat": "Das Passwort muss mindestens einen Großbuchstaben, einen Kleinbuchstaben, ein Sonderzeichen enthalten, darf keine Leerzeichen enthalten und länger als 8 Zeichen sein.",
+            "invalidNewPasswordFormat": "Bitte gib dein neues Passwort ein. Das Passwort muss mindestens einen Großbuchstaben, einen Kleinbuchstaben, ein Sonderzeichen enthalten, darf keine Leerzeichen enthalten und länger als 8 Zeichen sein.",
+            "passwordMismatch": "Das Passwort stimmte nicht überein",
+            "fallbackMessage": "Etwas ist schief gelaufen"
+        }
+    },
+    "mayLikeEvents": {
+        "title": "Das könnte dir auch gefallen",
+        "description": "Lass dich inspirieren! Entdecke weitere spannende Veranstaltungen, interessante Ausflugsziele und besondere Erlebnisse in deiner Region.",
+        "subDescription": "Hier findest du Empfehlungen, die perfekt zu deinen Interessen passen!",
+        "buttonLabel": "Alle Veranstaltungen Beiträge",
+        "no_events": "Es wurden keine Ereignisse gefunden",
+        "fallback_message": "Aktuell finden keine Veranstaltungen in Ihrer Nähe statt. Bitte schauen Sie später noch einmal vorbei oder erweitern Sie Ihren Suchbereich."
+    },
+    "allEvents": {
+        "title": "Alle Veranstaltungen",
+        "description": "Durchsuchen Sie alle bevorstehenden und vergangenen Veranstaltungen an einem Ort."
+    },
+    "allNews": {
+        "title": "Alle Aktuelles",
+        "description": "Durchsuchen Sie alle bevorstehenden und vergangenen Aktuelles an einem Ort."
+    },
+    "navbar": {
+        "home_page": "Startseite",
+        "map": "Karte",
+        "discover": "Entdecken",
+        "favorite": "Favoriten",
+        "favoritecities": "Lieblingsorte",
+        "settings": "Einstellungen",
+        "logout": "Abmelden",
+        "search": "Suchen",
+        "search_placeholder": "Suchbegriff eingeben",
+        "hey": "Hey",
+        "dashboard": "Dashboard",
+        "cities": "Städte"
+    },
+    "highlights": {
+        "title": "Highlights",
+        "fallback_message": "Aktuell finden keine Veranstaltungen in Ihrer Nähe statt. Bitte schauen Sie später noch einmal vorbei oder erweitern Sie Ihren Suchbereich.",
+        "description": "Entdecke die besonderen Höhepunkte unseres Landkreises! Von einzigartigen Festivals und historischen Märkten bis hin zu spektakulären Open-Air-Konzerten – hier stellen wir dir die pannendsten Events und kulturellen Schätze vor. Lass dich inspirieren und erlebe unvergessliche Momente direkt vor deiner Haustür."
+    },
+    "favorites": {
+        "title": "Favoriten",
+        "description": "„Hier werden Ihre gespeicherten Veranstaltungen aufgelistet. Stöbern Sie durch Ihre Favoriten und behalten Sie den Überblick über die Erlebnisse, die Sie nicht verpassen möchten.“"
+    },
+    "favoritescities": {
+        "title": "Lieblingsorte",
+        "description": ""
+    },
+    "nearYou": {
+        "title": "In deiner Nähe",
+        "description1": "Erlebe die kulturelle Vielfalt deines Landkreises!",
+        "description2": "Ob Konzerte, Theateraufführungen, Kunstausstellungen oder traditionelle Feste – hier findest du aktuelle Veranstaltungen und spannende Erlebnisse direkt in deiner Umgebung.",
+        "description3": "Lass dich inspirieren, entdecke neue Highlights und plane deine nächsten Ausflüge ganz bequem. Schau regelmäßig vorbei, um nichts zu verpassen!",
+        "viewAll": "Alles Beiträge",
+        "map_view": "Zur Kartenansicht",
+        "fallback_message": "Aktuell finden keine Veranstaltungen in Ihrer Nähe statt. Bitte schauen Sie später noch einmal vorbei oder erweitern Sie Ihren Suchbereich."
+    },
+    "todaysEvents": {
+        "title": " Heutige Veranstaltungen",
+        "description1": "Was steht heute auf dem Programm? Hier findest du alle Events, die heute in deiner Umgebung stattfinden.",
+        "description2": "Ob Musik, Kunst, Theater oder regionale Feste – entdecke spannende Veranstaltungen und genieße den Tag ganz nach deinem Geschmack.",
+        "description3": "Schau vorbei und verpasse keine Highlights!",
+        "allEvents": "Alle Veranstaltungen Beiträge",
+        "fallback_message": "Aktuell finden keine Veranstaltungen in Ihrer Nähe statt. Bitte schauen Sie später noch einmal vorbei oder erweitern Sie Ihren Suchbereich."
+    },
+    "todaysNews": {
+        "title": "Aktuelles",
+        "description1": "Was steht heute auf dem Programm? Hier findest du alle Nachrichten, die heute in deiner Umgebung veröffentlicht wurden.",
+        "description2": "Ob lokale Neuigkeiten, kulturelle Updates oder wichtige Mitteilungen – entdecke spannende Informationen und bleibe auf dem Laufenden.",
+        "description3": "Schau vorbei und verpasse keine Highlights!",
+        "allNews": "Alle Aktuelles",
+        "fallback_message": "Aktuell gibt es keine neuen Nachrichten in Ihrer Nähe. Bitte schauen Sie später noch einmal vorbei oder erweitern Sie Ihren Suchbereich."
+    },
+    "discover": {
+        "title": "Was gibt’s zu entdecken",
+        "description": "Hier findest du alles Wichtige rund um deinen Landkreis: Aktuelle Mitteilungen, Serviceangebote, spannende Events und kulturelle Highlights. Entdecke Freizeitmöglichkeiten, kulinarische Erlebnisse und digitale Projekte – für jedes Interesse ist etwas dabei!"
+    },
+    "footer": {
+        "developer_community": "Entwicklergemeinschaft",
+        "contact_us": "Kontaktiere uns",
+        "faq": "Häufige Fragen",
+        "imprint": "Impressum",
+        "terms_of_use": "Nutzungsbedingungen",
+        "privacy_policy": "Datenschutzerklärung",
+        "feedbackQuestion": "Wie findest du die App?",
+        "message": "Fehlt dir noch etwas oder ist dir etwas aufgefallen? Lass es uns wissen, um die App stetig zu verbessern..",
+        "feedback": "Feedback senden",
+        "Imprint": {
+            "title": "Impressum",
+            "represented_by": "Vertreten durch",
+            "contact": "Kontakt"
+        }
+    },
+    "Impressum": {
+        "title": "Impressum",
+        "section1_title": "Angaben nach § 5 Digitale-Dienste-Gesetz (DDG)",
+        "section1_description": "Die App „Dein Kuseler Land“ ist ein Dienst des Landkreises Kusel, der im Rahmen des Projektes LAND L(i)EBEN umgesetzt wurde. Der Landkreis Kusel ist eine Körperschaft des Öffentlichen Rechts und wird vertreten durch den Landrat Otto Rubly.",
+        "section1_provider": "Name des Anbieters: Kreisverwaltung Kusel",
+        "section1_address": "Adresse: Trierer Straße 49-51 66869 Kusel",
+        "section1_contact": "Kontaktmöglichkeiten:",
+        "section1_tel": "Tel.: 06381/ 424 0",
+        "section1_fax": "Fax: 06381/ 424 440",
+        "section1_email": "E-Mail: buergerbuero@kv-kus.de",
+        "section1_website": "Internet: https://www.landkreis-kusel.de",
+        "section1_vat": "Umsatzsteuer-Identifikationsnummer gemäß § 27a des Umsatzsteuergesetzes: DE 218639538",
+        "section2_title": "Verantwortlicher gemäß § 18 Abs. 2 Medienstaatsvertrag",
+        "section2_content": "Kreisverwaltung Kusel\nLandrat Otto Rubly\n66869 Kusel",
+        "section3_title": "Streitschlichtung",
+        "section3_description": "Wir sind aufgrund von Art. 14 Abs. 1 der Verordnung (EU) 524/2013 über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) gesetzlich verpflichtet, Sie auf die Europäische Online-Streitbeilegungs-Plattform (OS-Plattform) der Europäischen Kommission hinzuweisen. Sie können diese unter http://ec.europa.eu/odr erreichen.",
+        "section3_note": "Der Landkreis Kusel nimmt nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil und wir sind dazu auch nicht verpflichtet.",
+        "section4_title": "Datenschutzhinweise",
+        "section4_content": "Unsere Datenschutzhinweise finden Sie unter Link.",
+        "section5_title": "Urheberrechtshinweis",
+        "section5_description": "Die auf unserer Internetseite vorhandenen Texte, Bilder, Fotos, Videos oder Grafiken unterliegen in der Regel dem Schutz des Urheberrechts. Jede unberechtigte Verwendung (insbesondere die Vervielfältigung, Bearbeitung oder Verbreitung) dieser urheberrechtsgeschützten Inhalte ist daher untersagt. Wenn Sie beabsichtigen, diese Inhalte oder Teile davon zu verwenden, kontaktieren Sie uns bitte im Voraus unter den oben stehenden Angaben. Soweit wir nicht selbst Inhaber der benötigten urheberrechtlichen Nutzungsrechte sein sollten, bemühen wir uns, einen Kontakt zum Berechtigten zu vermitteln.",
+        "section6_title": "Haftung",
+        "section6_description": "Wir sind für die Inhalte unserer Internetseiten nach den Maßgaben der allgemeinen Gesetze verantwortlich. Alle Inhalte werden mit der gebotenen Sorgfalt und nach bestem Wissen erstellt und dienen lediglich rein informativen Zwecken. Soweit wir auf unseren Internetseiten mittels Hyperlink auf Internetseiten Dritter verweisen, können wir keine Gewähr für die fortwährende Aktualität, Richtigkeit und Vollständigkeit der verlinkten Inhalte übernehmen, da diese Inhalte außerhalb unseres Verantwortungsbereichs liegen und wir auf die zukünftige Gestaltung keinen Einfluss haben. Sollten aus Ihrer Sicht Inhalte gegen geltendes Recht verstoßen oder unangemessen sein, teilen Sie uns dies bitte mit.",
+        "section6_note": "Die rechtlichen Hinweise auf dieser Seite sowie alle Fragen und Streitigkeiten im Zusammenhang mit der Gestaltung dieser Webseite unterliegen dem Recht der Bundesrepublik Deutschland."
+    },
+    "Datenschutz": {
+        "title": "Datenschutzerklärung",
+        "section1_title": "1. Datenschutz auf einen Blick",
+        "section1_content": "Allgemeine Hinweise\n\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.\n\nDatenerfassung auf unserer Website\n\nWer ist verantwortlich für die Datenerfassung auf dieser Website?\n\nDie Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.\n\nWie erfassen wir Ihre Daten?\n\nIhre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.\n\nAndere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.\n\nWofür nutzen wir Ihre Daten?\n\nEin Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.\n\nWelche Rechte haben Sie bezüglich Ihrer Daten?\n\nSie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.\n\nAußerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Details hierzu entnehmen Sie der Datenschutzerklärung unter 'Recht auf Einschränkung der Verarbeitung'.",
+        "section2_title": "2. Allgemeine Hinweise und Pflichtinformationen",
+        "section2_content": "Datenschutzerklärung\n\nDie Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.\n\nWenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.\n\nWir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.\n\nHinweis zur verantwortlichen Stelle\n\nDie verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:\n\nKreisverwaltung Kusel\nTrierer Straße 49-51\n66869 Kusel\nTel. 06381/ 424 0\nFax: 06381/ 424 440\nbuergerbuero@kv-kus.de\n\nUnser Datenschutzbeauftragter steht Ihnen für Fragen zur Verarbeitung Ihrer personenbezogenen Daten unter nachfolgenden Kontaktdaten gerne zur Verfügung:\n\nBehördlicher Datenschutzbeauftragter\nTrierer Straße 49-51\n66869 Kusel\nTel. 06381/ 424 0\nFax: 06381/ 424 50220\ndatenschutzbeauftragter@kv-kus.de\n\nExternes Hosting\n\nDiese Website wird bei einem externen Dienstleistenden gehostet:\nHostinganbieter/Heidi, Anschrift, Kontakt\nDie personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern von „Heidi oder est. Hostinganbieter“ gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.\n\nWiderruf Ihrer Einwilligung zur Datenverarbeitung\n\nViele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.\n\nWiderspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)\n\nWenn die Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, haben Sie jederzeit das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, gegen die Verarbeitung Ihrer personenbezogenen Daten Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Die jeweilige Rechtsgrundlage, auf denen eine Verarbeitung beruht, entnehmen Sie dieser Datenschutzerklärung. Wenn Sie Widerspruch einlegen, werden wir Ihre betroffenen personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen (Widerspruch nach Art. 21 Abs. 1 DSGVO).\n\nWerden Ihre personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, so haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung Sie betreffender personenbezogener Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Wenn Sie widersprechen, werden Ihre personenbezogenen Daten anschließend nicht mehr zum Zwecke der Direktwerbung verwendet (Widerspruch nach Art. 21 Abs. 2 DSGVO).\n\nBeschwerderecht bei der zuständigen Aufsichtsbehörde\n\nIm Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.\n\nRecht auf Datenübertragbarkeit\n\nSie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.\n\nSSL- bzw. TLS-Verschlüsselung\n\nDiese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.\n\nWenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.\n\nAuskunft, Sperrung, Löschung und Berichtigung.",
+        "section2.1_content": "Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.\n\nRecht auf Einschränkung der Verarbeitung\n\nSie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:\n\nWenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah / geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen. Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.\n\nWenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.\n\nWiderspruch gegen Werbe-E-Mails\n\nDer Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.",
+        "section3_title": "3. Datenerfassung auf unserer Website",
+        "section3_content": "Cookies\n\nDie Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.\n\nDie meisten der von uns verwendeten Cookies sind so genannte “Session-Cookies”. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.\n\nSie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.\n\nCookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. ...",
+        "section4_title": "4. Ihre Rechte",
+        "section4_content": "Auskunft, Sperrung, Löschung und Berichtigung\n\nSie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.\n\nRecht auf Einschränkung der Verarbeitung\n\nSie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. ...\n\nWiderspruch gegen Werbe-E-Mails\n\nDer Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. ...",
+        "section5_title": "5. Plugins und Tools",
+        "section5_content": "a. Google Web Fonts\n\nDiese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts, die von Google bereitgestellt werden. Die Google Fonts sind lokal installiert. Eine Verbindung zu Servern von Google findet dabei nicht statt. Weitere Informationen zu Google Web Fonts finden Sie unter https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://policies.google.com/privacy?hl=de.\n\nb. OpenStreetMaps\n\nWir nutzen Darstellung von Geo-Daten den Open-Source-Karten-Dienst „OpenStreetMaps“ (auch „OSM“ genannt) der Firma OpenStreetMap Foundation, 132 Maney Hill Road, Sutton Coldfield, West Midlands, B72 1JU, United Kingdom. OSM dient dazu, eine interaktive Karte auf unserer Website anzubieten, die Ihnen zeigt, wie Sie uns finden und erreichen können. Dieser Dienst ermöglicht es uns, unsere Website ansprechend darzustellen, indem Kartenmaterial von einem externen Server geladen wird. Folgende Daten werden bei der Darstellung an die Server von OSM übertragen: Diejenige unserer Internetseiten, die Sie besucht haben und die IP-Adresse Ihres Endgerätes. Die Rechtsgrundlage für die Verarbeitung Ihrer Daten in Bezug auf den Dienst „OSM“ ist Art. 6 Abs. 1 S. 1 Buchstabe f) DSGVO (Berechtigtes Interesse an der Datenverarbeitung). Das berechtigte Interesse ergibt sich aus unserem Bedarf an einer ansprechenden Darstellung unseres Online-Angebots und der leichten Auffindbarkeit der auf unserer Homepage angegebenen Orte.\n\nMehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von OSM: https://wiki.osmfoundation.org/wiki/Privacy_Policy\n\nc. Änderungen dieser Datenschutzerklärung\n\nWir behalten uns vor, diese Datenschutzerklärung zu ändern. Die aktuelle Fassung der Datenschutzerklärung ist stets unter XXXXXX abrufbar."
+    },
+    "terms-of-use": {
+        "title": "Nutzungsbedingungen",
+        "section1_title": "Allgemeine Bestimmungen und Geltungsbereich",
+        "section1_content": "Diese Nutzungsbedingungen regeln den Zugang zu und die Nutzung dieser Website sowie der damit verbundenen Dienstleistungen. Mit dem Zugriff auf unsere Website oder deren Nutzung erklären Sie sich mit diesen Nutzungsbedingungen sowie unserer Datenschutzerklärung einverstanden. Diese Bedingungen gelten für alle Nutzer der Website, sowohl in Deutschland als auch international. Wenn Sie mit diesen Bedingungen nicht einverstanden sind, dürfen Sie unsere Website und Dienste nicht nutzen.",
+        "section2_title": "Verfügbarkeit und Zugang",
+        "section2_content": "Wir bemühen uns, den ununterbrochenen Zugang zu unserer Website sicherzustellen und fehlerfreie Übertragungen zu ermöglichen. Aufgrund der Beschaffenheit des Internets können wir jedoch keine ständige und unterbrechungsfreie Verfügbarkeit garantieren. Der Zugang zur Website kann gelegentlich für Wartungen, Aktualisierungen oder zur Einführung neuer Dienste unterbrochen oder eingeschränkt werden. Wir behalten uns das Recht vor, die Website oder Teile davon jederzeit ohne Vorankündigung zu ändern, auszusetzen oder einzustellen.",
+        "section3_title": "Pflichten der Nutzer",
+        "section3_content": "Mit der Nutzung dieser Website verpflichten Sie sich, sie ausschließlich für rechtmäßige Zwecke zu verwenden und in einer Weise, die die Rechte Dritter nicht verletzt oder deren Nutzung und Genuss der Website nicht einschränkt oder behindert. Es ist untersagt, Inhalte hochzuladen, zu veröffentlichen oder zu verbreiten, die rechtswidrig, schädlich, verleumderisch, obszön, beleidigend, diskriminierend oder anderweitig anstößig sind. Sie dürfen keine unerwünschten Werbematerialien, Spam oder sonstige unaufgeforderte Inhalte verbreiten. Das bewusste Einführen von Viren, Malware oder anderem schädlichen Material auf die Website ist verboten.",
+        "section4_title": "Haftungsbeschränkung",
+        "section4_content": "Wir haften uneingeschränkt für Vorsatz und grobe Fahrlässigkeit sowie bei Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Bei leicht fahrlässigen Pflichtverletzungen haften wir nur für vorhersehbare, vertragstypische Schäden und nur dann, wenn eine wesentliche Vertragspflicht verletzt wurde. Für die Richtigkeit, Vollständigkeit oder Aktualität von Informationen auf externen, verlinkten Websites übernehmen wir keine Verantwortung. Für direkte, indirekte, zufällige oder Folgeschäden, die sich aus dem Zugang zu oder der Nutzung unserer Website ergeben, haften wir nicht.",
+        "section5_title": "Geistiges Eigentum",
+        "section5_content": "Alle Inhalte dieser Website, einschließlich, aber nicht beschränkt auf Texte, Bilder, Grafiken, Logos, Symbole und Software, sind Eigentum unseres Unternehmens oder unserer Lizenzgeber und durch geltende Urheber-, Marken- und andere Schutzrechte geschützt. Eine unbefugte Vervielfältigung, Verbreitung, Bearbeitung, öffentliche Wiedergabe oder sonstige Nutzung der Inhalte der Website ist ohne unsere ausdrückliche vorherige schriftliche Zustimmung untersagt.",
+        "section6_title": "Anwendbares Recht und Gerichtsstand",
+        "section6_content": "Diese Nutzungsbedingungen unterliegen dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Wenn Sie Unternehmer sind, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesen Nutzungsbedingungen der Sitz unseres Unternehmens. Zwingende gesetzliche Bestimmungen, insbesondere solche zum Schutz von Verbrauchern, bleiben unberührt."
+    },
+    "privacy-policy": {
+        "title": "Datenschutzhinweise",
+        "intro_title": "Datenschutzhinweis",
+        "intro_content": "Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. In dieser Datenschutzerklärung erläutern wir, wie wir Ihre Daten erheben, verwenden, weitergeben und schützen, wenn Sie unsere Website und Dienste nutzen. Mit der Nutzung unserer Website stimmen Sie der Verarbeitung Ihrer personenbezogenen Daten gemäß dieser Erklärung zu.",
+        "section1_title": "Wer ist für die Datenverarbeitung verantwortlich?",
+        "section1_content": "Verantwortliche Stelle (Controller) für die Verarbeitung personenbezogener Daten auf dieser Website ist:\nLand( )leben – digital.gemeinsam.vorOrt\nKreisverwaltung Kusel\nTrierer Str. 49-51\n66869 Kusel\nE-Mail: landliebe@kv-kus.de",
+        "section2_title": "Welche Daten erheben wir?",
+        "section2_content": "Wir erheben personenbezogene Daten, die Sie uns freiwillig mitteilen, wie z. B. Ihren Namen, Kontaktdaten und Nachrichten, sowie Daten, die automatisch durch die Nutzung der Website erfasst werden, wie IP-Adresse, Browsertyp und Zugriffszeiten.",
+        "section3_title": "Zu welchen Zwecken verarbeiten wir Ihre Daten?",
+        "section3_content": "Wir verarbeiten Ihre Daten, um unsere Dienste bereitzustellen und zu verbessern, Anfragen zu beantworten, gesetzliche Verpflichtungen zu erfüllen und die Sicherheit unserer Website zu gewährleisten. Soweit erforderlich, verarbeiten wir Ihre Daten auf Grundlage Ihrer Einwilligung, die Sie jederzeit widerrufen können.",
+        "section4_title": "Wie lange speichern wir Ihre Daten?",
+        "section4_content": "Wir speichern Ihre personenbezogenen Daten nur so lange, wie es zur Erfüllung der Zwecke erforderlich ist, für die sie erhoben wurden, oder wie es gesetzlich vorgeschrieben ist. Sobald die Daten nicht mehr benötigt werden, werden sie gelöscht oder anonymisiert.",
+        "section5_title": "Welche Rechte haben Sie?",
+        "section5_content": "Sie haben das Recht auf Auskunft, Berichtigung oder Löschung Ihrer personenbezogenen Daten, Einschränkung der Verarbeitung, Widerspruch gegen die Verarbeitung sowie das Recht auf Datenübertragbarkeit. Sie haben zudem das Recht, eine Beschwerde bei einer Aufsichtsbehörde einzureichen.",
+        "section6_title": "Wie können Sie uns kontaktieren?",
+        "section6_content": "Wenn Sie Fragen zu dieser Datenschutzerklärung oder zur Verarbeitung Ihrer personenbezogenen Daten haben, kontaktieren Sie uns bitte unter landliebe@kv-kus.de."
+    },
+    "heroSection": {
+        "hey": "Hey",
+        "message": "Heute wird’s sonnig!",
+        "appStoreMessage": "Hol dir die App!"
+    },
+    "settings": {
+        "title": "Einstellungen",
+        "tab": {
+            "user_details": "Benutzerdetails",
+            "delete_account": "Konto löschen",
+            "favorites": "Favoriten",
+            "usernameReq": "Benutzername und Vorname sind erforderlich",
+            "phoneNum": "Die Telefonnummer darf nur Zahlen enthalten",
+            "phoneLen": "Die Telefonnummer darf maximal 15 Ziffern enthalten",
+            "emailValid": "E-Mail ist nicht gültig",
+            "websiteValid": "Webseite ist nicht gültig"
+        },
+        "user_details": {
+            "username": "Benutzername",
+            "firstname": "Vorname",
+            "lastname": "Nachname",
+            "phone": "Telefonnummer",
+            "description": "Beschreibung",
+            "website": "Webseite",
+            "save": "Speichern",
+            "cancel": "Stornieren",
+            "edit": "bearbeiten",
+            "success_message": "Benutzer erfolgreich aktualisiert",
+            "failure_message": "Benutzer kann nicht aktualisiert werden, bitte versuchen Sie es später erneut",
+            "viewonboarding": "Onboarding bearbeiten"
+        },
+        "delete_account": {
+            "promptReason": "Wenn Sie ein Konto löschen möchten, werden Sie aufgefordert, einen Grund anzugeben.",
+            "warning": "Das Löschen Ihres Kontos entfernt alle Ihre Informationen aus unserer Datenbank. Dies kann nicht rückgängig gemacht werden.",
+            "placeholder": "Bitte geben Sie hier einen Grund an...",
+            "button": "Löschen",
+            "error_message": "Konto konnte nicht gelöscht werden. Bitte versuchen Sie es später erneut oder wenden Sie sich an den Support, falls das Problem weiterhin besteht."
+        }
+    },
+    "feedback": {
+        "title": "Feedback senden",
+        "referenceLabel": "Betreff auswählen",
+        "emailLabel": "E-Mail-Adresse",
+        "feedbackLabel": "Dein Feedback",
+        "submitButton": "Absenden",
+        "SubmittingLabel": "Wird gesendet...",
+        "successMessage": "Vielen Dank für dein Feedback!",
+        "error_message": "Hoppla! Ihr Feedback konnte aufgrund eines technischen Problems nicht übermittelt werden. Bitte versuchen Sie es in Kürze noch einmal.",
+        "privacyPolicyCheckbox": "Ich habe die Datenschutzerklärung zur Kenntnis genommen.",
+        "error": {
+            "requiredName": "Bitte gib deinen Namen ein",
+            "invalidEmail": "Bitte gib eine gültige E-Mail-Adresse ein",
+            "shortFeedback": "Das Feedback muss mindestens 10 Zeichen lang sein",
+            "submitFailed": "Etwas ist schief gelaufen. Bitte versuche es erneut."
+        },
+        "references": {
+            "infra": "Infrastruktur & öffentlicher Raum",
+            "traffic": "Verkehr & Mobilität",
+            "cleanliness": "Sauberkeit & Umwelt",
+            "digital": "Digitale Dienste & App-Funktion",
+            "damages": "Störungen & Schäden",
+            "service": "Bürgerservice & Verwaltung",
+            "general": "Allgemeines Feedback"
+        }
+    },
+    "onboarding": {
+        "user_details.failure_message": "Benutzer kann nicht aktualisiert werden, bitte versuchen Sie es später erneut",
+        "welcome_step": {
+            "title": "Willkommen!",
+            "message": "Lass uns dich kennenlernen und die passenden Angebote finden.",
+            "get_started": "Legen wir los",
+            "skip": "Ein andermal"
+        },
+        "name_step": {
+            "title": "Wie darf ich dich nennen?",
+            "name_label": "Dein Name",
+            "skip": "Überspringen",
+            "next": "Weiter",
+            "prev": "Zurück"
+        },
+        "identity_step": {
+            "title": "Ich ...",
+            "live_here": "lebe hier",
+            "spend_free_time": "verbringe meine Freizeit hier",
+            "next": "Weiter",
+            "prev": "Zurück",
+            "skip": "Überspringen"
+        },
+        "resident_step": {
+            "title": "Ich lebe im Landkreis ...",
+            "residenceTitle": "Dein Wohnort",
+            "alone": "Alleine",
+            "married": "Zu zweit",
+            "with_family": "Mit meiner Familie",
+            "withDog": "Mit Hund",
+            "lowBarrier": "Barrierearm",
+            "accessible": "Barrierearm",
+            "next": "Weiter",
+            "prev": "Zurück",
+            "skip": "Überspringen"
+        },
+        "interest_step": {
+            "title": "Fast geschafft, Lukas! Für was interessierst du dich im Landkreis?",
+            "complete": "Abschließen",
+            "prev": "Zurück",
+            "skip": "Überspringen"
+        },
+        "loading_step": {
+            "title": "Danke",
+            "sub_title": "Ich bereite die App nun für dich vor. Das dauert einen kleinen Moment."
+        },
+        "success_step": {
+            "title": "Fertig",
+            "sub_title": "Ich habe alles für Sie vorbereitet. Viel Spaß!",
+            "submit": "Weiter zur Startseite"
+        }
+    },
+    "filter_event": {
+        "title": "Filter",
+        "reset": "Filter Zurücksetzen",
+        "period": "Zeitraum",
+        "next30Days": "Nächste 30 Tage",
+        "targetGroup": "Zielgruppe",
+        "dateRange": "Zeitraum",
+        "alone": "Alleine",
+        "location": "Ort",
+        "radius": "Umkreis",
+        "sortBy": "Sortierung nach",
+        "recent": "Aktualität",
+        "distance": "Entfernung",
+        "options": "Optionen",
+        "dogsAllowed": "Hunde erlaubt",
+        "accessible": "Barrierearm",
+        "publicTransport": "Erreichbar mit ÖPNV",
+        "free": "Kostenfrei",
+        "onlineBooking": "Online buchbar",
+        "openAir": "Open Air",
+        "cardPayment": "Kartenzahlung möglich",
+        "cancel": "Abbrechen",
+        "apply": "Anwenden",
+        "couple": "Als Paar",
+        "children": "Mit Kindern",
+        "groups": "Gruppen",
+        "seniors": "Senioren",
+        "optionsValues": {
+            "dog_friendly": "Hunde erlaubt",
+            "accessible": "Barrierearm",
+            "public_transport": "Erreichbar mit ÖPNV",
+            "free": "Kostenfrei",
+            "online": "Online buchbar",
+            "openAir": "Open Air",
+            "card_payment": "Kartenzahlung möglich"
+        },
+        "date_filter": {
+            "today": "Heute",
+            "weekend": "Wochenende",
+            "7": "Nächste 7 Tage",
+            "30": "Nächste 30 Tage",
+            "custom": "Zeitraum definieren"
+        }
+    },
+    "searches": {
+        "title": "Wie kann ich dir helfen?",
+        "subtitle": "Frag mich einfach etwas.",
+        "buttons": {
+            "nearby": "Was gibt's in meiner Nähe",
+            "recommendations": "Empfehlungen"
+        },
+        "searchPlaceholder": "Suchbegriff eingeben",
+        "recentSearches": "Letzte Suchanfragen",
+        "noSearchItem": "Noch keine Ergebnisse. Versuchen Sie, nach etwas zu suchen."
+    },
+    "discoverylist": {
+        "new": "Neu",
+        "firstcard": {
+            "Name": "Orte und Gemeinden",
+            "Content": "Wissenswertes und Aktuelles  rund um deinen Ort."
+        },
+        "secondcard": {
+            "Name": "Digifit Parcours",
+            "Content": "Interaktive Stationen für digitale Kompetenz und Spaß."
+        },
+        "thirdcard": {
+            "Name": "Schätzepass",
+            "Content": "Entdecke Kultur, sammle Stempel und erlebe den Landkreis."
+        },
+        "fourthcard": {
+            "Name": "Empfehlungen",
+            "Content": "Die besten Tipps für Ausflüge, Events und kulinarische Highlights."
+        },
+        "fifthcard": {
+            "Name": "Veranstaltungen",
+            "Content": "Aktuelle Events, von Konzerten bis Festivals, in deiner Nähe."
+        },
+        "sixthcard": {
+            "Name": "Gastronomie",
+            "Content": "Vielfältige kulinarische Highlights und regionale Spezialitäten."
+        },
+        "seventhcard": {
+            "Name": "Kultur",
+            "Content": "Konzerte, Theater und Museen für ein reiches Kulturerlebnis."
+        },
+        "eighthcard": {
+            "Name": "Jugend",
+            "Content": "Events und Projekte für junge Leute im Landkreis."
+        },
+        "ninthcard": {
+            "Name": "Für Senioren",
+            "Content": "Angebote und Infos für ein aktives Seniorenleben."
+        },
+        "tenthcard": {
+            "Name": "Amtliche Mitteilungen",
+            "Content": "Wichtige Informationen und Bekanntmachungen."
+        },
+        "eleventhcard": {
+            "Name": "Bürgerservice",
+            "Content": "Alle wichtigen Dienstleistungen und Anträge."
+        }
+    },
+    "burgerservice": {
+        "firstcard": {
+            "Name": "Virtuelles Rathaus"
+        },
+        "secondcard": {
+            "Name": "Mein Ort"
+        },
+        "thirdcard": {
+            "Name": "Tourismus und Freizeit"
+        },
+        "fourthcard": {
+            "Name": "Mobilität"
+        },
+        "fifthcard": {
+            "Name": "MITMACHEN"
+        }
+    },
+    "virtualtownhall": {
+        "name": "Virtuelles Rathaus",
+        "title": "Kreisverwaltung",
+        "details": {
+            "place": "Geöffnet bis",
+            "duration": "Schließt um 18:00 Uhr",
+            "visit_website": "Website besuchen"
+        },
+        "mapcard": {
+            "title": "Unsere Gemeinden"
+        },
+        "Iconcard": {
+            "first": {
+                "title": "Online-Dienste",
+                "description": "Bürgerservice online"
+            },
+            "second": {
+                "title": "Online Terminvergabe",
+                "description": "Kreisverwaltung"
+            },
+            "third": {
+                "title": "Abfallapp",
+                "description": "Nie wieder Termine verpassen."
+            },
+            "fourth": {
+                "title": "Pfälzer Bergland",
+                "description": ""
+            }
+        },
+        "newscard": {
+            "title": "Aktuelles",
+            "button": "Alle Meldungen Beiträge",
+            "first": {
+                "description": "Hier steht eine Newsmeldung"
+            },
+            "second": {
+                "description": "Hier steht eine Newsmeldung, die kann auch zweizeilig sein"
+            },
+            "third": {
+                "description": "Hier steht eine Newsmeldung"
+            },
+            "fourth": {
+                "description": "Hier steht eine Newsmeldung"
+            }
+        },
+        "eventcard": {
+            "title": "Veranstaltungen",
+            "button": "Alle Veranstaltungen Beiträge",
+            "first": {
+                "description": "Mittelaltermarkt"
+            },
+            "second": {
+                "description": "Europäischer Bauernmarkt"
+            },
+            "third": {
+                "description": "Offene Weinprobe Untertage"
+            },
+            "fourth": {
+                "description": "Geführte E-Bike Tour"
+            },
+            "fifth": {
+                "description": "Bauernmarkt"
+            }
+        }
+    },
+    "meinort": {
+        "description": "Willkommen auf der Übersichtsseite für deine Orte im Kuseler Land – Deinem Guide zu den Orten der Region.",
+        "readmore": "Weiterlesen"
+    },
+    "kuselaltenglan": {
+        "title": "Kusel-Altenglan",
+        "description": "Die Verbandsgemeinde Kusel-Altenglan ist eine Gebietskörperschaft im Landkreis Kusel in Rheinland-Pfalz. Sie ist zum 1. Januar 2018 aus dem freiwilligen Zusammenschluss der Verbandsgemeinden Altenglan und Kusel entstanden. Ihr gehören die Stadt Kusel sowie 33 weitere Ortsgemeinden an, der Verwaltungssitz ist in Kusel.",
+        "details": {
+            "place": "Geöffnet",
+            "duration": "Schließt um 16:00 Uhr"
+        },
+        "municipal": {
+            "title": "Orte der Gemeinde",
+            "button": "Alle Orte Beiträge"
+        },
+        "mapcard": {
+            "title": "Unsere Gemeinden"
+        },
+        "Iconcard": {
+            "first": {
+                "title": "Online-Dienste",
+                "description": "Bürgerservice online"
+            },
+            "second": {
+                "title": "Online Terminvergabe",
+                "description": "Kreisverwaltung"
+            },
+            "third": {
+                "title": "Abfallapp",
+                "description": "Nie wieder Termine verpassen."
+            },
+            "fourth": {
+                "title": "Pfälzer Bergland",
+                "description": ""
+            }
+        },
+        "newscard": {
+            "title": "Aktuelles",
+            "button": "Alle Meldungen Beiträge",
+            "first": {
+                "description": "Hier steht eine Newsmeldung"
+            },
+            "second": {
+                "description": "Hier steht eine Newsmeldung, die kann auch zweizeilig sein"
+            },
+            "third": {
+                "description": "Hier steht eine Newsmeldung"
+            },
+            "fourth": {
+                "description": "Hier steht eine Newsmeldung"
+            }
+        },
+        "eventcard": {
+            "title": "Veranstaltungen",
+            "button": "Alle Veranstaltungen Beiträge",
+            "first": {
+                "description": "Mittelaltermarkt"
+            },
+            "second": {
+                "description": "Europäischer Bauernmarkt"
+            },
+            "third": {
+                "description": "Offene Weinprobe Untertage"
+            },
+            "fourth": {
+                "description": "Geführte E-Bike Tour"
+            },
+            "fifth": {
+                "description": "Bauernmarkt"
+            }
+        }
+    },
+    "kusel": {
+        "title": "Kusel",
+        "subheading": "Kusel, bis 1865 Cusel geschrieben, ist die Kreisstadt des Landkreises Kusel sowie der Verwaltungssitz der Verbandsgemeinde Kusel-Altenglan.",
+        "description": "Kusel liegt am Kuselbach im Südwesten von Rheinland-Pfalz im Nordpfälzer Bergland. Mit 5405 Einwohnern ist Kusel nach Cochem und Seelow die drittkleinste Kreisstadt Deutschlands. Kusel ist gemäß Landesplanung als Mittelzentrum ausgewiesen.",
+        "Iconcard": {
+            "first": {
+                "title": "Virtuelles Rathaus",
+                "description": "Finden Sie hier einfach den für Sie  passenden Service."
+            }
+        }
+    },
+    "tourism": {
+        "title": "Tourismus und Freizeit",
+        "Iconcard": {
+            "first": {
+                "title": "Wanderwege App",
+                "description": "Entdecke Kusel zu Fuß"
+            }
+        },
+        "mapcard": {
+            "title": "Unsere Empfehlungen"
+        },
+        "nearyour": {
+            "title": "In deiner Nähe",
+            "button": "Zur Kartenansicht"
+        }
+    },
+    "mobility": {
+        "title": "Mobilität",
+        "description": "Der Landkreis Kusel ist nach dem rheinland-pfälzischen Nahverkehrsgesetz für die Ausgestaltung des Öffentlichen Personennahverkehrs ÖPNV zuständig. In den ÖPNV sind auch die Schülerverkehre sowie die Fahrten zu Kindertagesstätten zu den jeweiligen Standorten im Landkreis Kusel integriert.",
+        "dropdown": {
+            "title": "Weiterlesen"
+        },
+        "Iconcard": {
+            "title": "Unsere Angebote",
+            "first": {
+                "title": "Ruftaxi",
+                "description": ""
+            },
+            "second": {
+                "title": "Mitfahrersuche",
+                "description": ""
+            },
+            "third": {
+                "title": "Bürgerbus",
+                "description": ""
+            },
+            "fourth": {
+                "title": "Jugendtaxi",
+                "description": "Komm gud hääm!"
+            },
+            "fifth": {
+                "title": "Schülerbeförderung",
+                "description": ""
+            },
+            "sixth": {
+                "title": "Das Deutschlandticket",
+                "description": "Mobil mit der Bahn"
+            }
+        },
+        "contact1": {
+            "title": "Fahrplanauskunft und Ruftaxibuchungen rund um die Uhr"
+        },
+        "contact2": {
+            "title": "Mobilitätszentrale",
+            "description": "Bei weiteren Rückfragen zum Bus- und Ruftaxiangebot wenden Sie sich gerne an die Mobilitätszentrale des Landkreises "
+        },
+        "infocard": {
+            "title": "Deine Ansprechpartner:innen",
+            "first": {
+                "title": "Wolfgang Borm"
+            },
+            "second": {
+                "title": "Mathias Börtzler"
+            },
+            "third": {
+                "title": "Manuela Weber"
+            }
+        }
+    },
+    "mitchmachen": {
+        "title": "GESTALTE DIE ZUKUNFT DES LANDKREISES KUSEL MIT",
+        "subheading": "Wir möchten gemeinsam den Landkreis Kusel weiterentwickeln.",
+        "description": "Deine Ideen und Meinungen sind der Schlüssel, um unsere Region zukunftsfähig zu gestalten. Bring Dich ein und gestalte aktiv mit!",
+        "button": "Hier anmelden",
+        "Iconcard": {
+            "title": "MITMACHEN",
+            "first": {
+                "title": "Jetzt mitmachen!",
+                "description": "Gestalte die Zukunft des Landkreises Kusel mit"
+            },
+            "second": {
+                "title": "Aktive Projekte",
+                "description": ""
+            },
+            "third": {
+                "title": "Zur Anmeldung",
+                "description": ""
+            }
+        },
+        "description2": {
+            "title": "MACH MIT UND GESTALTE DIE ZUKUNFT DES LANDKREISES KUSEL!",
+            "description": "Auf dieser Plattform kannst du Ideen einbringen, Projekte unterstützen und über wichtige Themen abstimmen. Du möchtest wissen, wie das genau funktioniert? Hier erfährst Du alles, was Du zur Anmeldung und Teilhabe wissen musst - ganz einfach erklärt!"
+        },
+        "infocard": {
+            "title": "Deine Ansprechpartner:innen",
+            "first": {
+                "title": "Nadine Kropp-Meyer"
+            }
+        }
+    },
+    "weekdays": {
+        "0": "Sonntag",
+        "1": "Montag",
+        "2": "Dienstag",
+        "3": "Mittwoch",
+        "4": "Donnerstag",
+        "5": "Freitag",
+        "6": "Samstag"
+    },
+    "sidebar": {
+        "my_entries": "Meine Einträge",
+        "upload_listing": "Eintrag hochladen",
+        "all_listings": "Alle Beiträge"
+    },
+    "dashboard": {
+        "listingsTable": {
+            "myEntries": "Meine Einträge",
+            "allListings": "Alle Beiträge",
+            "errorLoading": "Fehler beim Laden der Beiträge",
+            "noListings": "Keine Beiträge gefunden",
+            "manageStatus": "Status anpassen",
+            "na": "N/V",
+            "columns": {
+                "title": "ANGEBOTE",
+                "category": "KATEGORIE",
+                "date": "ERSTELLUNGSDATUM",
+                "views": "ANZAHL DER ANSICHTEN",
+                "status": "STATUS",
+                "currentStatus":"AKTUELLER STATUS",
+                "actions": "AKTION"
+            },
+            "tabs": {
+                "all": "Alle",
+                "active": "Aktiv",
+                "pending": "Ausstehend",
+                "inactive": "Inaktiv"
+            },
+            "status": {
+                "active": "Aktiv",
+                "pending": "Ausstehend",
+                "inactive": "Inaktiv",
+                "unknown": "Unbekannt"
+            },
+            "previous": "Vorherige",
+            "next": "Nächste",
+            "page": "Seite",
+            "confirmDialog": {
+                "title": "Sind Sie sicher?",
+                "message": "Möchten Sie diese Anzeige wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+                "cancel": "Abbrechen",
+                "delete": "Löschen"
+            }
+        }
+    },
+    "upload": {
+        "select": "Auswählen",
+        "title": "Titel *",
+        "category": "Kategorie *",
+        "subcategory": "Unterkategorie",
+        "districts": "Bezirke *",
+        "municipalities": "Gemeinden",
+        "cities": "Städte",
+        "eventStartDate": "Veranstaltungsbeginn *",
+        "eventEndDate": "Veranstaltungsende",
+        "expiryDate": "Ablaufdatum *",
+        "disableDates": "Ablaufdatum deaktivieren",
+        "streetAddress": "Straßenadresse",
+        "originalPrice": "Originalpreis",
+        "discountedPrice": "Ermäßigter Preis",
+        "telephone": "Telefon",
+        "email": "E-Mail",
+        "website": "Webseite",
+        "description": "Beschreibung *",
+        "createListing": "Anzeige erstellen",
+        "updateListing": "Anzeige aktualisieren",
+        "processing": "Wird verarbeitet...",
+        "uploadImages": "Bilder hochladen (max. {{max}})",
+        "addMoreImages": "Weitere Bilder hinzufügen ({{count}}/{{max}})",
+        "uploadPdf": "PDF hochladen",
+        "replacePdf": "PDF ersetzen",
+        "selectedImages": "{count} Bilder ausgewählt",
+        "removeImage": "Bild entfernen",
+        "removePdf": "PDF entfernen",
+        "uploadLogo": "Logo/PDF hochladen",
+        "addFileHere": "Fügen Sie Ihre Datei hier hinzu",
+        "maxFileSizeAllert": "Maximale Dateigröße: 20MB",
+        "imageNumberAlertListings": "Maximal 8 Bilder erlaubt",
+        "dragAndDropImageOrPDF": "Ziehen Sie Ihr Bild oder PDF hierher",
+        "upload": "Hochladen",
+        "removeFile": "Datei entfernen",
+        "imagePdfWarning": "Hinweis: Sie können entweder Bilder ODER ein PDF hochladen, nicht beides",
+        "noExpiryMessage": "Für diesen Beitrag gibt es kein Ablaufdatum",
+        "error": {
+            "titleRequired": "Titel ist erforderlich",
+            "titleLength": "Titel muss weniger als 255 Zeichen haben",
+            "categoryRequired": "Kategorie ist erforderlich",
+            "descriptionRequired": "Beschreibung ist erforderlich",
+            "descriptionLength": "Beschreibung muss weniger als 65535 Zeichen haben",
+            "locationRequired": "Mindestens ein Ort muss ausgewählt werden",
+            "startDateRequired": "Startdatum ist erforderlich",
+            "expiryDateRequired": "Ablaufdatum ist erforderlich",
+            "pdfSizeExceeded": "PDF muss kleiner als {{size}} MB sein.",
+            "invalidImageType": "Nur Bilddateien sind erlaubt",
+            "imageSizeExceeded": "Bildgröße muss kleiner als {size}MB sein",
+            "invalidPdfType": "Nur PDF-Dateien sind erlaubt",
+            "createFailed": "Erstellung der Anzeige fehlgeschlagen. Bitte versuchen Sie es erneut.",
+            "updateFailed": "Aktualisierung der Anzeige fehlgeschlagen. Bitte versuchen Sie es erneut.",
+            "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+            "invalidPhone": "Bitte geben Sie eine gültige Telefonnummer ein",
+            "invalidWebsite": "Bitte geben Sie eine gültige Website-URL ein",
+            "emailRequired": "E-Mail ist erforderlich",
+            "phoneRequired": "Telefonnummer ist erforderlich",
+            "endDateBeforeStart": "Enddatum darf nicht vor dem Startdatum liegen",
+            "pdfTooLarge": "PDF-Datei ist zu groß (max {size}MB)",
+            "pdfDeleteFailed": "PDF konnte nicht gelöscht werden",
+            "imageUploadFailed": "Bild-Upload fehlgeschlagen",
+            "pdfUploadFailed": "PDF-Upload fehlgeschlagen",
+            "expiryDatePast": "Ablaufdatum darf nicht in der Vergangenheit liegen",
+            "districtRequired": "Bezirk ist erforderlich",
+            "municipalityRequired": "Gemeinde ist erforderlich",
+            "cityRequired": "Stadt ist erforderlich"
+        },
+        "success": {
+            "created": "Anzeige erfolgreich erstellt!",
+            "updated": "Anzeige erfolgreich aktualisiert!",
+            "pdfDeleted": "PDF erfolgreich gelöscht",
+            "imageUploaded": "Bild erfolgreich hochgeladen",
+            "pdfUploaded": "PDF erfolgreich hochgeladen"
+        },
+        "pdf": {
+            "loading": "Lade...",
+            "error": "PDF konnte nicht geladen werden"
+        }
+    },
+    "citytable": {
+        "district": "Bezirk",
+        "selectDistrict": "Bezirk auswählen",
+        "municipality": "Gemeinde",
+        "selectMunicipality": "Gemeinde auswählen",
+        "city": "Stadt",
+        "selectCity": "Stadt auswählen",
+        "showDetails": "Details Beiträge",
+        "hideDetails": "Details ausblenden",
+        "cityDetails": "Stadt Details",
+        "name": "Name",
+        "status": "Status",
+        "active": "Aktiv",
+        "inactive": "Inaktiv",
+        "latitude": "Breitengrad",
+        "longitude": "Längengrad",
+        "subtitle": "Untertitel",
+        "noSubtitle": "Kein Untertitel vorhanden",
+        "description": "Beschreibung",
+        "noDescription": "Keine Beschreibung vorhanden",
+        "cancel": "Abbrechen",
+        "saveChanges": "Änderungen speichern",
+        "edit": "Bearbeiten",
+        "view": "Ansehen",
+        "upload": "Hochladen",
+        "save": "Speichern",
+        "close": "Schließen",
+        "successMessage": "Stadt erfolgreich aktualisiert!",
+        "errorMessage": "Fehler beim Aktualisieren der Stadt",
+        "mayorDetails": "Bürgermeisterdetails",
+        "mayorName": "Name des Bürgermeisters",
+        "mayorDescription": "Beschreibung des Bürgermeisters",
+        "cityAdmin": "Stadtadministrator",
+        "cityAdminSectionTitle": "Stadtadministrator-Verwaltung",
+        "cityName": "Stadtname",
+        "createCityAdmin": "+ Stadtadministrator erstellen",
+        "addNewAdmin": "Neuen Administrator hinzufügen",
+        "selectUser": "Benutzer auswählen",
+        "username": "Benutzername",
+        "email": "E-Mail",
+        "saveAdmin": "Administrator speichern",
+        "administratorDetails": "Administratordetails",
+        "noAdminsAssigned": "Keine Administratoren für diese Stadt zugewiesen.",
+        "delete": "Löschen",
+        "inviteCityAdmin": "Stadtadministrator einladen",
+        "adminEmail": "Administrator E-Mail",
+        "sendInvite": "Einladung senden",
+        "adminList": "Administratorliste",
+        "role": "Rolle",
+        "createdAt": "Erstellt am",
+        "registered": "Registriert",
+        "noInvitedAdmins": "Keine eingeladenen Administratoren gefunden.",
+        "invitationSuccess": "Einladung erfolgreich gesendet",
+        "invitationFailed": "Einladung konnte nicht gesendet werden",
+        "cityAdminRole": "Stadtadministrator",
+        "otherRole": "Andere"
+    },
+    "maps": {
+        "noData": "Keine Daten verfügbar",
+        "searchPlaceholder": "Suchbegriff eingeben"
+    },
+    "eventDetail":{
+        "nextDate": "Nächste Termine",
+        "visitWeb": "Website besuchen",
+        "public_transport": "ÖPNV Angebot",
+        "checkOut": "Schau dir hier an, wie du am besten hinkommst",
+        "barrierFree": "Barrierefrei",
+        "dogsAllowed": "Hunde erlaubt",
+        "freeEntry": "Kostenfrei",
+        "showRoute": "Route Beiträge"
+    },
+    "roles": {
+        "superAdmin": "Superadministrator",
+        "citizen": "Bürger",
+        "cityAdmin": "Stadtadministrator",
+        "other": "Andere"
+    }
+}
